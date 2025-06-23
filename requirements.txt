@@ -1,0 +1,28 @@
+# Core
+numpy
+pandas
+matplotlib
+scikit-learn
+
+# Deep Learning
+tensorflow
+keras
+
+# NLP and Text Processing
+nltk
+tensorflow-text
+
+# Image Processing
+opencv-python
+Pillow
+
+# Data Handling
+seaborn
+jupyter
+
+# Optional: For stock data and internet-based datasets
+yfinance
+pandas_datareader
+
+# For dealing with imbalanced datasets (optional)
+imbalanced-learn
