@@ -1,4 +1,4 @@
-# 🧠 Machine Learning and Deep Learning Projects
+# Deep Learning Projects
 
 Welcome to my collection of deep learning projects. This repository includes a variety of practical implementations using neural networks, CNNs, LSTMs, and other techniques to solve business, computer vision, and time-series problems.
 
@@ -63,4 +63,3 @@ Welcome to my collection of deep learning projects. This repository includes a v
 - OpenCV (for image-based tasks)
 
 ---
-
